@@ -1,0 +1,68 @@
+.h-100vh {
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.bg-aqua {
+    background: #82C3EC;
+}
+
+.form-check-input:checked {
+    background-color: #212529;
+    border-color: #212529;
+}
+
+.dropdown-item.active, .dropdown-item:active, .nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+    background: #ffffff;
+    color: #212529;
+}
+
+.list-group-item.active {
+    background-color: #212529;
+    border-color: #212529;
+}
+
+.img-profile {
+    width: 150px;
+}
+
+.mt-lg {
+    margin-top: 4rem;
+}
+
+.text-simple {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.is-response {
+    background: #D1E7DD;
+}
+
+.icon-neat {
+    display: inline-block;
+    width: 25px;
+}
+
+.text-small {
+    font-size: .8rem;
+}
+
+select::selection {
+    background: #212529;
+}
+
+.admin-content {
+    background: #F3F4F6;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #ffffff;
+    background: #212529 !important;
+}
+
+.dropdown-menu-dark .dropdown-item.active, .dropdown-menu-dark .dropdown-item:active {
+    background: #ffffff !important;
+    color: #212529 !important;
+}
